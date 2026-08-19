@@ -34,7 +34,7 @@ Pot 3: Damage/dulling/flutter
 
 ### Shimmer Reverb
 
-A shimmer verb by Alex Lawrow based on the original by Mick Taylor. Amended to make output 100% wet (as intended)
+A shimmer verb by Alex Lawrow based on the original by Mick Taylor. Amended to make output 100% wet (as originally intended; code circulating online has the dry signal inserted too)
 
 Pot 1: Amount of treble in reverb loop\
 Pot 2: Reverb time (max 10 seconds)\
