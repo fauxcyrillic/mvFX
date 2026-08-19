@@ -1,4 +1,4 @@
-# mvFX
+# mvFX (work in progress)
 Extremely minimal 1U FV-1 based FX module for AE Modular
 * mono in/mono out
 * no CV input
@@ -6,7 +6,7 @@ Extremely minimal 1U FV-1 based FX module for AE Modular
 * Very basic wet/dry mix
 </br>
 
-## Chosen FX
+## Chosen FX (TBC)
 
 ### Starfield
 
