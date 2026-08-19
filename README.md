@@ -20,7 +20,7 @@ Pot 3: Phase level
 
 Just like it says on the tin - a backwards delay
 
-Pot 1: Bit crush\
+Pot 1: Bit crush (?)\
 Pot 2: Delay\
 Pot 3: Feedback
 
